@@ -1,5 +1,5 @@
 {
-  "main.css": "/Movies-App/static/css/main.a84595db.chunk.css",
+  "main.css": "/Movies-App/static/css/main.a9cc1976.chunk.css",
   "main.js": "/Movies-App/static/js/main.e0156fac.chunk.js",
   "main.js.map": "/Movies-App/static/js/main.e0156fac.chunk.js.map",
   "runtime~main.js": "/Movies-App/static/js/runtime~main.8d416b0d.js",
@@ -8,10 +8,10 @@
   "static/js/2.06738d55.chunk.js": "/Movies-App/static/js/2.06738d55.chunk.js",
   "static/js/2.06738d55.chunk.js.map": "/Movies-App/static/js/2.06738d55.chunk.js.map",
   "index.html": "/Movies-App/index.html",
-  "precache-manifest.7fb6a906ca24dd9c89296f85b4635376.js": "/Movies-App/precache-manifest.7fb6a906ca24dd9c89296f85b4635376.js",
+  "precache-manifest.3a7c2e6f3094d756419a5606280ed149.js": "/Movies-App/precache-manifest.3a7c2e6f3094d756419a5606280ed149.js",
   "service-worker.js": "/Movies-App/service-worker.js",
   "static/css/2.614d601e.chunk.css.map": "/Movies-App/static/css/2.614d601e.chunk.css.map",
-  "static/css/main.a84595db.chunk.css.map": "/Movies-App/static/css/main.a84595db.chunk.css.map",
+  "static/css/main.a9cc1976.chunk.css.map": "/Movies-App/static/css/main.a9cc1976.chunk.css.map",
   "static/media/FallbackImg.jpg": "/Movies-App/static/media/FallbackImg.d4e90b1e.jpg",
   "static/media/logo.svg": "/Movies-App/static/media/logo.fce7ce8f.svg"
 }
