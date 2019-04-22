@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/Movies-App/static/js/runtime~main.8d416b0d.js"
   },
   {
-    "revision": "ef5d5a488f9b33a7a4a1",
-    "url": "/Movies-App/static/js/main.62c019f0.chunk.js"
+    "revision": "627b1da4e20c6fbbaf33",
+    "url": "/Movies-App/static/js/main.f4a1bbf4.chunk.js"
   },
   {
     "revision": "f43ddf944d3e80a62f0f",
     "url": "/Movies-App/static/js/2.06738d55.chunk.js"
   },
   {
-    "revision": "ef5d5a488f9b33a7a4a1",
-    "url": "/Movies-App/static/css/main.d38c49e5.chunk.css"
+    "revision": "627b1da4e20c6fbbaf33",
+    "url": "/Movies-App/static/css/main.198e68c3.chunk.css"
   },
   {
     "revision": "f43ddf944d3e80a62f0f",
     "url": "/Movies-App/static/css/2.614d601e.chunk.css"
   },
   {
-    "revision": "58805c6e7c57e17483f04071020fff32",
+    "revision": "461dcf9490254ad726e261ba69eb4fce",
     "url": "/Movies-App/index.html"
   }
 ];
