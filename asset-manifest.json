@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/Movies-App/static/js/main.ce368895.chunk.js",
-    "main.js.map": "/Movies-App/static/js/main.ce368895.chunk.js.map",
+    "main.js": "/Movies-App/static/js/main.095bc705.chunk.js",
+    "main.js.map": "/Movies-App/static/js/main.095bc705.chunk.js.map",
     "runtime-main.js": "/Movies-App/static/js/runtime-main.79948c4e.js",
     "runtime-main.js.map": "/Movies-App/static/js/runtime-main.79948c4e.js.map",
     "static/css/2.b96c2c02.chunk.css": "/Movies-App/static/css/2.b96c2c02.chunk.css",
     "static/js/2.4c809539.chunk.js": "/Movies-App/static/js/2.4c809539.chunk.js",
     "static/js/2.4c809539.chunk.js.map": "/Movies-App/static/js/2.4c809539.chunk.js.map",
     "index.html": "/Movies-App/index.html",
-    "precache-manifest.e01fdd7cd7f62dff1f3064170f8ccbeb.js": "/Movies-App/precache-manifest.e01fdd7cd7f62dff1f3064170f8ccbeb.js",
+    "precache-manifest.068755732ff71a637a99c41ee0912ce8.js": "/Movies-App/precache-manifest.068755732ff71a637a99c41ee0912ce8.js",
     "service-worker.js": "/Movies-App/service-worker.js",
     "static/css/2.b96c2c02.chunk.css.map": "/Movies-App/static/css/2.b96c2c02.chunk.css.map",
     "static/media/FallbackImg.jpg": "/Movies-App/static/media/FallbackImg.d4e90b1e.jpg",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.79948c4e.js",
     "static/css/2.b96c2c02.chunk.css",
     "static/js/2.4c809539.chunk.js",
-    "static/js/main.ce368895.chunk.js"
+    "static/js/main.095bc705.chunk.js"
   ]
 }
